@@ -1,2 +1,2 @@
 # git
-  ''https://jhondare.github.io/git/
+  https://jhondare.github.io/git/
