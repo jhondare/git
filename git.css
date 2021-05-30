@@ -1,13 +1,16 @@
 body{
-    font-family: calibri;   
+    font-family: calibri;
+   
+    
+    
 }
 
 .main{
     width: 23%;
     display: flex;
     flex-direction: column;
-    margin-left: 35%;
-    margin-top: 11%;
+    margin-left: 40%;
+    margin-top: 9%;
 }
 
 .upper-main{
@@ -27,12 +30,12 @@ body{
 }
 
 .bg-img{
-    height: 450px;
-    width: 450px;
+    height: 420px;
+    width: 420px;
     float: left;
-    margin-left: 180px;
-    margin-top: 3px;
-    opacity: 0.18;
+    margin-left: 190px;
+    margin-top: 90px;
+    opacity: 0.17;
 }
 
 
